@@ -9,6 +9,10 @@
 		<Authors>Fabian Leon</Authors>
 		<Description>A library for representing results with success or failure.</Description>
 		<PackageTags>result success failure leon</PackageTags>
+		<RepositoryUrl>https://github.com/FabianLeonDev/Leon.Results</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<PackageProjectUrl>https://github.com/FabianLeonDev/Leon.Results</PackageProjectUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	</PropertyGroup>
 
 	<ItemGroup>
