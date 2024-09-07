@@ -1,5 +1,7 @@
 # Leon.Results
 
+[![NuGet Version](https://img.shields.io/nuget/v/Leon.Results.svg?style=flat-square)](https://www.nuget.org/packages/Leon.Results/)
+
 **Leon.Results** is a .NET library that provides a simple and intuitive way to handle operation results, making it easier to manage success and failure cases, especially in scenarios involving validation, error handling, and return values.
 
 ## Installation
