@@ -5,7 +5,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<PackageId>Leon.Results</PackageId>
-		<Version>1.0.1</Version>
+		<Version>1.0.2</Version>
 		<Authors>Fabian Leon</Authors>
 		<Description>A library for representing results with success or failure.</Description>
 		<PackageTags>result success failure leon</PackageTags>
